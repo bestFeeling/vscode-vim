@@ -9,7 +9,7 @@
 ``` js
 
   const Age = 100
-  const userName = `Nowell`    
+  const userName = `Nowell`
 
 
 
